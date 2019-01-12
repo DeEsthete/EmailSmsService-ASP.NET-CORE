@@ -1,0 +1,5 @@
+C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\Services\bin\Debug\netcoreapp2.1\Services.Abstract.dll
+C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\Services\obj\Debug\netcoreapp2.1\Services.csprojAssemblyReference.cache
+C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\Services\obj\Debug\netcoreapp2.1\Services.csproj.CoreCompileInputs.cache
+C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfoInputs.cache
+C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\Services\obj\Debug\netcoreapp2.1\Services.AssemblyInfo.cs

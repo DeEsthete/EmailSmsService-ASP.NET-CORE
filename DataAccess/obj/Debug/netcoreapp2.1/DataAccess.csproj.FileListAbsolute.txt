@@ -1,0 +1,5 @@
+C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
