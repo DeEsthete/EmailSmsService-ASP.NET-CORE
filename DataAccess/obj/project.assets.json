@@ -3023,11 +3023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\DataAccess\\DataAccess.csproj",
+      "projectPath": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\ПавловЕ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\DataAccess\\obj\\",
+      "outputPath": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3046,8 +3046,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\Models\\Models.csproj": {
-              "projectPath": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\Models\\Models.csproj"
+            "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\Models\\Models.csproj": {
+              "projectPath": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\Models\\Models.csproj"
             }
           }
         }

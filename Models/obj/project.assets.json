@@ -710,11 +710,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\Models\\Models.csproj",
+      "projectUniqueName": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\Models\\Models.csproj",
       "projectName": "Models",
-      "projectPath": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\Models\\Models.csproj",
+      "projectPath": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\Models\\Models.csproj",
       "packagesPath": "C:\\Users\\ПавловЕ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\Models\\obj\\",
+      "outputPath": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -733,8 +733,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\Services.Abstract\\Services.Abstract.csproj": {
-              "projectPath": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\Services.Abstract\\Services.Abstract.csproj"
+            "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\Services.Abstract\\Services.Abstract.csproj": {
+              "projectPath": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\Services.Abstract\\Services.Abstract.csproj"
             }
           }
         }

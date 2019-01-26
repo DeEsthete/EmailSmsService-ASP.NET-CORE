@@ -1,0 +1,12 @@
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\bin\Debug\netcoreapp2.1\Services.Abstract.dll
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\bin\Debug\netcoreapp2.1\Services.Abstract.pdb
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\obj\Debug\netcoreapp2.1\Models.csprojAssemblyReference.cache
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\obj\Debug\netcoreapp2.1\Models.csproj.CopyComplete
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\obj\Debug\netcoreapp2.1\Models.dll
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\Models\obj\Debug\netcoreapp2.1\Models.pdb

@@ -3,3 +3,17 @@ C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\DataAccess\bin\Debug\netcor
 C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
 C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
 C:\Users\ПавловЕ\source\repos\AspCoreHomeWork\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\bin\Debug\netcoreapp2.1\Services.Abstract.dll
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\bin\Debug\netcoreapp2.1\Services.Abstract.pdb
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+C:\Users\ПавловЕ\Desktop\EmailSmsService-ASP.NET-CORE\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb

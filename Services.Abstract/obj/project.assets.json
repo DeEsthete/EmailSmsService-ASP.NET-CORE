@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\Services.Abstract\\Services.Abstract.csproj",
+      "projectUniqueName": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\Services.Abstract\\Services.Abstract.csproj",
       "projectName": "Services.Abstract",
-      "projectPath": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\Services.Abstract\\Services.Abstract.csproj",
+      "projectPath": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\Services.Abstract\\Services.Abstract.csproj",
       "packagesPath": "C:\\Users\\ПавловЕ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ПавловЕ\\source\\repos\\AspCoreHomeWork\\Services.Abstract\\obj\\",
+      "outputPath": "C:\\Users\\ПавловЕ\\Desktop\\EmailSmsService-ASP.NET-CORE\\Services.Abstract\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
